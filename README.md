@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Antule</h1>
-<h3 align="center"> Python Developer | Full Stack Web Developer | Cloud Enthusiast </h3>
+<h3 align="center"> Python Developer | DevOps Engineer | AWS Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikaustubh12&label=Profile%20views&color=0e75b6&style=flat" alt="manikaustubh12" /> </p>
 
-- 🌱 I’m currently learning **Cloud Technologies**
+- 🌱 I’m currently learning **DevOps Tools**
 
-- 💬 Ask me about **Python | Java | OS | Linux | Web Development**
+- 💬 Ask me about **Python | DevOps | OS | Linux | Web Development**
 
 - 📫 How to reach me **huzaifaantule101@gmail.com**
 
